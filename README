@@ -1,0 +1,15 @@
+🎉 Excited to Share My Second Task at Prodigy InfoTech! 🎉
+
+💢 I’ve just completed my second task as part of the Prodigy InfoTech team, where I developed a Guessing Game that challenges users to guess a randomly generated number.
+
+💢 The application allows users to:
+✨ Enter their guesses interactively.
+✨ Receive feedback on whether their guess is too high or too low.
+✨ Continue guessing until they find the correct number.
+
+💢 Key Features:
+✅ Generates a random number between 1 and 100.
+✅ Keeps track of the number of attempts.
+✅ Handles invalid inputs gracefully, preventing errors or crashes.
+
+🎃 This task helped me refine my Java programming skills, especially in handling user input and implementing game logic. Looking forward to more exciting challenges at Prodigy InfoTech! 🚀
